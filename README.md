@@ -58,17 +58,5 @@ This project demonstrates how to build a Flask web application that integrates w
 
     Enter the title of the movie you wish to search in the input field.
     The app will return matching movies with their title, genre, and description.
-    Elasticsearch Setup
-    Option 1: Local Setup
-    Install Elasticsearch:
-
-    Download and install Elasticsearch by following the official guide here.
-    Run Elasticsearch:
-
-    After installation, start Elasticsearch:
-    bash
-    Copy code
-    ./bin/elasticsearch
-    Verify Elasticsearch is running:
 
     Navigate to http://localhost:9200/ in your browser. You should see the Elasticsearch information.
