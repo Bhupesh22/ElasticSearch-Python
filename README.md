@@ -29,10 +29,9 @@ This project demonstrates how to build a Flask web application that integrates w
 
 ## Installation
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/imdb-flask-elasticsearch.git
-   cd imdb-flask-elasticsearch
-
+   ```
+    git clone https://github.com/your-username/imdb-flask-elasticsearch.git
+    cd imdb-flask-elasticsearch
     pip install -r requirements.txt
 
 2. Download the IMDb Movies Dataset from Kaggle:
@@ -51,6 +50,7 @@ This project demonstrates how to build a Flask web application that integrates w
     Start the Flask application:
 
     ```python app.py
+    
     Access the application:
 
     Open your browser and navigate to http://127.0.0.1:5000.
