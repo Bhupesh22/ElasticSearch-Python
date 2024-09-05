@@ -52,12 +52,11 @@ This project demonstrates how to build a Flask web application that integrates w
     ```
     python app.py
 
-    Access the application:
 
-    Open your browser and navigate to http://127.0.0.1:5000.
-    Search for Movies:
+Open your browser and navigate to http://127.0.0.1:5000.
+Search for Movies:
 
-    Enter the title of the movie you wish to search in the input field.
-    The app will return matching movies with their title, genre, and description.
+Enter the title of the movie you wish to search in the input field.
+The app will return matching movies with their title, genre, and description.
 
-    Navigate to http://localhost:9200/ in your browser. You should see the Elasticsearch information.
+Navigate to http://localhost:9200/ in your browser. You should see the Elasticsearch information.
