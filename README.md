@@ -47,10 +47,11 @@ This project demonstrates how to build a Flask web application that integrates w
     genre: The genre(s) of the movie.
     description: A brief description of the movie.
     Usage
-    Start the Flask application:
-
-    ```python app.py
     
+    Start the Flask application:
+    ```
+    python app.py
+
     Access the application:
 
     Open your browser and navigate to http://127.0.0.1:5000.
